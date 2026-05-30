@@ -1,6 +1,7 @@
 import nodemailer from 'nodemailer'
 import { Order } from './types'
-import { formatDate, NAIL_SHAPE_LABELS, NAIL_LENGTH_LABELS, BUDGET_RANGE_LABELS } from './utils'
+import { formatDate } from './utils'
+import { NAIL_SHAPE_LABELS, NAIL_LENGTH_LABELS, BUDGET_RANGE_LABELS } from './types'
 
 // Re-export from types for convenience
 export { NAIL_SHAPE_LABELS, NAIL_LENGTH_LABELS, BUDGET_RANGE_LABELS }
