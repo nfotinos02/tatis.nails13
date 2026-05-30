@@ -1,7 +1,8 @@
 import { Metadata } from 'next'
 import Link from 'next/link'
 import { createAdminClient } from '@/lib/supabase/server'
-import { formatDate, NAIL_SHAPE_LABELS, NAIL_LENGTH_LABELS } from '@/lib/utils'
+import { formatDate } from '@/lib/utils'
+import { NAIL_SHAPE_LABELS, NAIL_LENGTH_LABELS } from '@/lib/types'
 import { Order } from '@/lib/types'
 import { Check, ArrowRight, Home } from 'lucide-react'
 
