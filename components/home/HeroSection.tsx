@@ -109,7 +109,7 @@ export default function HeroSection() {
               {/* Large card */}
               <div className="col-span-2 aspect-[16/9] rounded-3xl overflow-hidden bg-nude-200 shadow-xl relative">
                 <Image
-                  src="https://qvfdwgfmnxntzhepemhh.supabase.co/storage/v1/object/public/gallery-images/hero_hand_nails.jpg"
+                  src="https://qvfdwgfmnxntzhepemhh.supabase.co/storage/v1/object/public/gallery-images/hero_hand_nails.jpeg"
                   alt="Custom press-on nails — blue stiletto set with marble and pearl accents"
                   fill
                   className="object-cover"
@@ -119,7 +119,7 @@ export default function HeroSection() {
               {/* Small cards */}
               <div className="aspect-square rounded-2xl overflow-hidden bg-nude-100 shadow-lg relative">
                 <Image
-                  src="https://qvfdwgfmnxntzhepemhh.supabase.co/storage/v1/object/public/gallery-images/hero_nail_display.jpg"
+                  src="https://qvfdwgfmnxntzhepemhh.supabase.co/storage/v1/object/public/gallery-images/hero_nail_display.jpeg"
                   alt="Blue opalescent nail set on display stand"
                   fill
                   className="object-cover"
@@ -127,7 +127,7 @@ export default function HeroSection() {
               </div>
               <div className="aspect-square rounded-2xl overflow-hidden bg-champagne-100 shadow-lg relative">
                 <Image
-                  src="https://qvfdwgfmnxntzhepemhh.supabase.co/storage/v1/object/public/gallery-images/hero_nail_sets.jpg"
+                  src="https://qvfdwgfmnxntzhepemhh.supabase.co/storage/v1/object/public/gallery-images/hero_nail_sets.jpeg"
                   alt="Multiple custom nail sets flat-laid on marble"
                   fill
                   className="object-cover"
