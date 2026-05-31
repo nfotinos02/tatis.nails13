@@ -109,7 +109,7 @@ export default function HeroSection() {
               {/* Large card */}
               <div className="col-span-2 aspect-[16/9] rounded-3xl overflow-hidden bg-nude-200 shadow-xl relative">
                 <Image
-                  src="https://qvfdwgfmnxntzhepemhh.supabase.co/storage/v1/object/public/gallery-images/hero_hand_nailss.jpeg"
+                  src="https://qvfdwgfmnxntzhepemhh.supabase.co/storage/v1/object/public/gallery-images/hero_nailsss.jpeg"
                   alt="Custom press-on nails — blue stiletto set with marble and pearl accents"
                   fill
                   className="object-cover"
